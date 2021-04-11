@@ -16,3 +16,5 @@ git remove
 git status
 
 について勉強しました
+
+git diff
