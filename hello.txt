@@ -8,3 +8,7 @@ git add
 git commit
 
 について勉強しました
+
+git remove
+
+について勉強しました
