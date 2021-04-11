@@ -12,3 +12,7 @@ git commit
 git remove
 
 について勉強しました
+
+git status
+
+について勉強しました
