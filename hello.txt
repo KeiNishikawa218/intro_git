@@ -20,3 +20,5 @@ git status
 git diff
 
 test
+
+テストを追記
