@@ -22,3 +22,5 @@ git diff
 test
 
 テストを追記
+
+rebase
